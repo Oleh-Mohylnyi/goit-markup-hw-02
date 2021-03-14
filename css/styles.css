@@ -151,6 +151,11 @@ body {
   font-size: 16px;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  /* background-color: var(--add-bg-color); */
+}
+
+.team-section {
+  background-color: var(--add-bg-color);
 }
 
 .team-title {
